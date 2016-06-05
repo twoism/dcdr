@@ -1,11 +1,12 @@
 package cli
 
+
 import (
 	"github.com/tucnak/climax"
 	"github.com/vsco/dcdr/cli/controller"
 )
 
-const Version = "0.2.5"
+const Version = "0.2.6"
 
 // CLI main CLI runner
 type CLI struct {
